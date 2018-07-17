@@ -1,0 +1,29 @@
+{
+  "name": "block-chain",
+  "version": "1.0.0",
+  "description": "A BlockChain funny",
+  "main": "main.js",
+  "dependencies": {
+    "bcrypt": "^3.0.0",
+    "crypto-js": "^3.1.9-1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HDias/JSBlockChain-BCrypt.git"
+  },
+  "keywords": [
+    "blockchain",
+    "javascript",
+    "cripto"
+  ],
+  "author": "Horecio Araújo Dias",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HDias/JSBlockChain-BCrypt/issues"
+  },
+  "homepage": "https://github.com/HDias/JSBlockChain-BCrypt#readme"
+}
